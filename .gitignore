@@ -1,0 +1,4 @@
+$ cat .gitignore
+/tmp
+*.db
+#img/Thumbs.db
